@@ -276,7 +276,7 @@ public class SensorWorker : BackgroundService
 
 ## 📞 Suporte
 
-- **GitHub**: [CamposDev.Microservice](https://github.com/gercyc/CamposDev.Microservice)
+- **GitHub**: [CamposDev.Mqtt](https://github.com/gercyc/CamposDev.Mqtt)
 - **Website**: [camposdev.ind.br](https://camposdev.ind.br)
 
 ## 📄 Licença

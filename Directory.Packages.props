@@ -1,0 +1,9 @@
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageVersion Include="HiveMQtt" Version="0.34.0" />
+    <PackageVersion Include="Microsoft.Extensions.Options" Version="9.0.11" />
+  </ItemGroup>
+</Project>
